@@ -43,8 +43,6 @@ I maintain several repositories — feel free to explore any of them:
 
 - Repositories: https://github.com/mikimek23?tab=repositories
 
-Tip: Pin the 3–6 repositories you want to highlight on your GitHub profile for better visibility.
-
 ## Get in touch
 
 - Email: mikimek933@gmail.com  
